@@ -1,0 +1,15 @@
+*.pyc
+*.py~
+*.py#
+
+*.pkl
+output/*
+train_log/*
+!train_log/.keep
+*.mp4
+
+test/
+.idea/
+*.npz
+
+*.zip
